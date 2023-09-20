@@ -7,3 +7,4 @@ E:\LuuDuLieuSinhVien\LyDangAnhDuy\Buoi5\Buoi5\obj\Debug\Buoi5.csproj.GenerateRes
 E:\LuuDuLieuSinhVien\LyDangAnhDuy\Buoi5\Buoi5\obj\Debug\Buoi5.exe
 E:\LuuDuLieuSinhVien\LyDangAnhDuy\Buoi5\Buoi5\obj\Debug\Buoi5.pdb
 E:\LuuDuLieuSinhVien\LyDangAnhDuy\Buoi5\Buoi5\obj\Debug\Buoi5.Form2.resources
+E:\LuuDuLieuSinhVien\LyDangAnhDuy\Buoi5\Buoi5\obj\Debug\Buoi5.csprojResolveAssemblyReference.cache
